@@ -18,10 +18,13 @@
 <strong>Novo level</strong>
 <img src="public/github/levelup.png" alt="Novo level" />
 
+<strong>Modal de registro do nome do usuário</strong>
+<br/>
+<img src="public/github/register.png" alt="Tela responsiva" />
+
 <strong>Tela responsiva</strong>
 <br/>
 <img src="public/github/responsive.png" alt="Tela responsiva" />
-
 
 ### 🛠 Utilizar
 
