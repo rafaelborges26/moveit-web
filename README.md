@@ -5,7 +5,7 @@
 <p align="center">o projeto incentiva o uso desse tempo de descanso com tarefas simples e que ajudam a evitar problemas de visão e problemas corporais, tornando a experiência das tarefas melhores</p>
 
 <h1 align="center">
-    <a href="https://moveitnow-one.vercel.app/">🔗 Moveitnow</a>
+    <a href="https://moveitnow.rafaelborges.dev.br/">🔗 Moveitnow</a>
 </h1>
 <p align="center">🚀 Aplicação web moveitnow</p>
 
